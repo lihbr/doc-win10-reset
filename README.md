@@ -8,7 +8,13 @@
   - [During reset](#during-reset)
   - [After reset](#after-reset)
     - [Basics](#basics)
-    - [Install](#install)
+    - [Softwares](#softwares)
+      - [Creativity](#creativity)
+      - [Dev](#dev)
+      - [Browsers](#browsers)
+      - [Files](#files)
+      - [Gestion](#gestion)
+      - [Others](#others)
 
 <!-- /TOC -->
 ## Before reset
@@ -22,7 +28,7 @@
   - User's bindings
   - User's snippets
 - Backup Adobe's app settings :
-  - `appdata/roamind/adobe/`
+  - `appdata/roaming/adobe/`
 - Others :
   - Mind checking documents, images etc.
   - RSA keys
@@ -44,38 +50,60 @@ Just follow install step, don't connect to internet, wifi, etc to use with local
 - Remove windows apps by launching `Get-AppxPackage -allusers | Remove-AppxPackage` in PowerShell.
 - Disable windows notifications in `Notifications & actions`.
 - Tweak battery options
-- Tweak stuff in `config.msc` and `msconfig`.
+- Tweak stuff in `service.msc` and `msconfig`.
 - Install the basic with [ninite](https://ninite.com/) to do so.
 - Stop telemetry with [shutup10](https://www.oo-software.com/fr/shutup10) this time.
 - Config folder options (make `File explorer` show `This PC` in `View > Options` and show hiddens files)
 
-### Install
+### Softwares
+
+#### Creativity
 
 - Adobe Creative Cloud
-  - Photoshop / Illustrator / Indesign / After Effect / Acrobat
-- Antitote
-- Audacity
-- BitTorrent
+  - Adobe Photoshop
+  - Adobe Illustrator
+  - Adobe InDesign
+  - Adobe After Effect
+- Audacity*
 - Cinema 4D
-- Discord
 - Figma
-- FileZilla
-- GanttProject
-- Git
-- Chrome
-- Insomnia
-- Firefox
-- Java
-- Nexusfont
-- Notepad++
-- NPM (node.js)
-- NVIDIA
-- Opera
 - Sketchup
-- Skype
-- Slack
-- Steam
-- Visual Code Studio
-- VLC
-- Winrar
+
+#### Dev
+
+- FileZilla*
+- Git
+- Insomnia
+- Notepad++*
+- NPM (node.js)
+- Visual Code Studio*
 - XAMPP
+
+#### Browsers
+
+- Chrome*
+- Firefox*
+- Opera*
+
+#### Files
+
+- BitTorrent*
+- Nexusfont
+- Powerpoint viewer
+- VLC*
+- Winrar*
+
+#### Gestion
+
+- Discord
+- GanttProject
+- Skype*
+- Slack
+
+#### Others
+
+- Antidode
+- Java*
+- Steam*
+
+>\* <small>can be installed with ninite</small> 
