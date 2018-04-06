@@ -1,17 +1,17 @@
-# Windows 10 reboot memo
+# Windows 10 reset memo
 <!-- TOC -->
 
-- [Windows 10 reboot memo](#windows-10-reboot-memo)
-  - [Before reboot](#before-reboot)
+- [Windows 10 reset memo](#windows-10-reset-memo)
+  - [Before reset](#before-reset)
     - [Backup](#backup)
-  - [Reboot](#reboot)
-  - [During reboot](#during-reboot)
-  - [After reboot](#after-reboot)
+  - [Reset](#reset)
+  - [During reset](#during-reset)
+  - [After reset](#after-reset)
     - [Driver](#driver)
     - [Install](#install)
 
 <!-- /TOC -->
-## Before reboot
+## Before reset
 
 ### Backup
 - Backup firefox profile :
@@ -27,14 +27,14 @@
   - Mind checking documents, images etc.
   - RSA keys
 
-## Reboot
+## Reset
 
 
-## During reboot
+## During reset
 
-Just follow install step...
+Just follow install step... don't connect to internet, wifi, etc to use with local account.
 
-## After reboot
+## After reset
 
 ### Driver
 
