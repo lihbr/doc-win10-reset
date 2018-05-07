@@ -105,5 +105,6 @@ Just follow install step, don't connect to internet, wifi, etc to use with local
 - Antidode
 - Java*
 - Steam*
+- Typora
 
 >\* <small>can be installed with ninite</small> 
