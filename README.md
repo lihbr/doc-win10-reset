@@ -73,6 +73,7 @@ Just follow install step, don't connect to internet, wifi, etc to use with local
 
 - FileZilla*
 - Git
+- Gow
 - Insomnia
 - Notepad++*
 - NPM (node.js)
