@@ -50,7 +50,7 @@ Just follow install step, don't connect to internet, wifi, etc to use with local
 - Remove windows apps by launching `Get-AppxPackage -allusers | Remove-AppxPackage` in PowerShell.
 - Disable windows notifications in `Notifications & actions`.
 - Tweak battery options
-- Tweak stuff in `service.msc` and `msconfig`.
+- Tweak stuff in `services.msc` and `msconfig`.
 - Install the basic with [ninite](https://ninite.com/) to do so.
 - Stop telemetry with [shutup10](https://www.oo-software.com/fr/shutup10) this time.
 - Config folder options (make `File explorer` show `This PC` in `View > Options` and show hiddens files)
