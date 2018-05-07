@@ -91,6 +91,7 @@ Just follow install step, don't connect to internet, wifi, etc to use with local
 - BitTorrent*
 - Nexusfont
 - Powerpoint viewer
+- Word viewer
 - VLC*
 - Winrar*
 
