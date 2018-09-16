@@ -21,7 +21,8 @@
 
 ### Backup
 - Backup firefox profile :
-  - `appdata/local/mozilla/firefox/profile/`
+  - `appdata/local/mozilla/firefox/profiles/`
+  - `appdata/roaming/mozilla/firefox/profiles/`
 - Backup VSC settings :
   - `users/.vscode` (extension)
   - User's options
