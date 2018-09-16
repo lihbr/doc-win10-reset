@@ -25,9 +25,7 @@
   - `appdata/roaming/mozilla/firefox/profiles/`
 - Backup VSC settings :
   - `users/.vscode` (extension)
-  - User's options
-  - User's bindings
-  - User's snippets
+  - `appdata/roaming/code/user` (user's options, bindings, snippets)
 - Backup Adobe's app settings :
   - `appdata/roaming/adobe/`
 - Others :
