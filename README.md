@@ -73,7 +73,7 @@ Just follow install step, don't connect to internet, wifi, etc to use with local
 
 - FileZilla*
 - Git
-- Gow
+- [Gow](https://github.com/bmatzelle/gow/releases)
 - Insomnia
 - Notepad++*
 - NPM (node.js)
