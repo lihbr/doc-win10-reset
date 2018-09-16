@@ -97,7 +97,7 @@ Just follow install step, don't connect to internet, wifi, etc to use with local
 
 #### Gestion
 
-- Discord
+- Discord*
 - GanttProject
 - Skype*
 - Slack
