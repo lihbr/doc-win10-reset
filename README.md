@@ -85,7 +85,7 @@ Just follow install step, disabled everything and don't connect to internet, wif
 - [Insomnia](https://insomnia.rest/)
 - [MongoDB Compass](https://www.mongodb.com/download-center/compass)
 - [Notepad++](https://notepad-plus-plus.org/download/)\*
-- [NPM & node.js](https://www.npmjs.com/get-npm)
+- [NPM & node.js](https://nodejs.org/en/)
 - [NVM](https://github.com/coreybutler/nvm-windows)
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)\*
 - [Visual Code Studio](https://code.visualstudio.com/Download)\*
