@@ -58,8 +58,8 @@ Just follow install step, disabled everything and don't connect to internet, wif
 - Disable windows notifications in `Notifications & actions`.
 - Tweak battery options
 - Tweak stuff in `services.msc` and `msconfig`.
-- Install the basic with [ninite](https://ninite.com/).
-- Stop telemetry with [shutup10](https://www.oo-software.com/fr/shutup10) this time.
+- Install the basic with [Ninite](https://ninite.com/).
+- Stop telemetry with [ShutUp10](https://www.oo-software.com/fr/shutup10) this time.
 - Config folder options (make `File explorer` show `This PC` in `View > Options` and show hiddens files)
 - Copy your backed up file back.
 
