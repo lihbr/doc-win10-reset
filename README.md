@@ -47,7 +47,7 @@ Or [download Windows 10](https://www.microsoft.com/fr-fr/software-download/windo
 
 ## During reset
 
-Just follow install step, disabled everything and don't connect to internet, wifi, etc to use with local account.
+Just follow install step, disabled everything and don't connect to internet, wifi, etc. to use with local account.
 
 ## After reset
 
