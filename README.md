@@ -35,7 +35,7 @@
 - Backup Adobe's app settings:
   - `appdata/roaming/adobe/`
 - Others :
-  - Mind checking documents, images etc.
+  - Mind checking documents, images, etc.
   - Copy RSA keys
 
 ### Reset
