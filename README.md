@@ -77,7 +77,6 @@ Just follow install step, disabled everything and don't connect to internet, wif
 
 #### Dev
 
-- [.NET Core SDK](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-3.0.100-preview2-windows-x64-installer)
 - [Cheat Engine](https://www.cheatengine.org/downloads.php)
 - [Composer](https://getcomposer.org/download/)
 - [FileZilla](https://filezilla-project.org/)\*
@@ -88,6 +87,11 @@ Just follow install step, disabled everything and don't connect to internet, wif
 - [Notepad++](https://notepad-plus-plus.org/download/)\*
 - [NPM & node.js](https://nodejs.org/en/)
 - [NVM](https://github.com/coreybutler/nvm-windows)
+> npm -g following:
+```
+npm install -g node-gyp@latest
+npm install -g --production windows-build-tools
+```
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)\*
 - [Visual Code Studio](https://code.visualstudio.com/Download)\*
 - [XAMPP](https://www.apachefriends.org/download.html)
