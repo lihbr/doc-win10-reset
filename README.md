@@ -77,6 +77,7 @@ Just follow install step, disabled everything and don't connect to internet, wif
 
 #### Dev
 
+- [.NET Core SDK](https://dotnet.microsoft.com/download/thank-you/dotnet-sdk-3.0.100-preview2-windows-x64-installer)
 - [Cheat Engine](https://www.cheatengine.org/downloads.php)
 - [Composer](https://getcomposer.org/download/)
 - [FileZilla](https://filezilla-project.org/)\*
