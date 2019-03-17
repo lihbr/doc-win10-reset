@@ -81,6 +81,13 @@ Just follow install step, disabled everything and don't connect to internet, wif
 - [Composer](https://getcomposer.org/download/)
 - [FileZilla](https://filezilla-project.org/)\*
 - [Git](https://git-scm.com/downloads)
+> create a new ssh key for the machine:
+> 1. activate *OpenSSH* in *services.msc* with *Automatic (Delayed Start)* option
+> 2. in terminal: `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+> 3. add the key to the ssh agent: `ssh-add key_rsa`
+> 4. add the public key to GitHub settings
+> 5. set *gitconfig* *email* property to *username@users.noreply.github.com*
+> 6. create an environment variable at *GIT_SSH* with the path of the *OpenSSH* executable: *C:\Windows\System32\OpenSSH\ssh.exe*
 - [Gow](https://github.com/bmatzelle/gow/releases)
 - [Insomnia](https://insomnia.rest/)
 - [MongoDB Compass](https://www.mongodb.com/download-center/compass)
