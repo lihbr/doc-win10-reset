@@ -89,12 +89,17 @@ Just follow install step, disabled everything and don't connect to internet, wif
 > 5. set *gitconfig* *email* property to *username@users.noreply.github.com*
 > 6. create an environment variable at *GIT_SSH* with the path of the *OpenSSH* executable: *C:\Windows\System32\OpenSSH\ssh.exe*
 - [Gow](https://github.com/bmatzelle/gow/releases)
+ > Fix terminal:
+ ```
+text:       [256, 250, 230]
+background: [7, 10, 20]
+```
 - [Insomnia](https://insomnia.rest/)
 - [MongoDB Compass](https://www.mongodb.com/download-center/compass)
 - [Notepad++](https://notepad-plus-plus.org/download/)\*
 - [NPM & node.js](https://nodejs.org/en/)
 - [NVM](https://github.com/coreybutler/nvm-windows)
-> npm -g following:
+> `npm -g` following:
 ```
 npm install -g node-gyp@latest
 npm install -g --production windows-build-tools
