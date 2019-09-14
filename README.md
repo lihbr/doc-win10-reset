@@ -98,6 +98,11 @@ background: [7, 10, 20]
 ```
 @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
 ```
+- [Windows Terminal](https://github.com/microsoft/terminal)
+> 1. Install `choco install microsoft-windows-terminal`
+> 2. Copy `./terminal` inside `%LOCALAPPDATA%`
+> 3. Execute `wt.reg`
+> 4. Resume your settings
 - [Insomnia](https://insomnia.rest/)
 - [MongoDB Compass](https://www.mongodb.com/download-center/compass)
 - [Notepad++](https://notepad-plus-plus.org/download/)\*
