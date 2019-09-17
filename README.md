@@ -91,7 +91,7 @@ Just follow install step, disabled everything and don't connect to internet, wif
 - [Gow](https://github.com/bmatzelle/gow/releases)
  > Fix terminal:
  ```
-text:       [256, 250, 230]
+text:       [255, 250, 230]
 background: [7, 10, 20]
 ```
 - [Chocolatey](https://chocolatey.org/)
