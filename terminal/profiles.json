@@ -1,4 +1,5 @@
 {
+    "$schema": "https://aka.ms/terminal-profiles-schema",
   "globals": {
     "alwaysShowTabs": true,
     "copyOnSelect": false,
@@ -142,7 +143,7 @@
       "background": "#070A14",
       "closeOnExit": true,
       "colorScheme": "Default",
-      "commandline": "cmd.exe /k \"D: && cd Libraries/Desktop && ls\"",
+      "commandline": "cmd.exe /k \"ls\"",
       "cursorColor": "#FDFAE6",
       "cursorShape": "bar",
       "fontFace": "Consolas",
@@ -153,7 +154,7 @@
       "name": "cmd",
       "padding": "0, 0, 0, 0",
       "snapOnInput": true,
-      "startingDirectory": "%USERPROFILE%",
+      "startingDirectory": ".",
       "useAcrylic": false
     },
     {
@@ -171,7 +172,7 @@
       "name": "bash",
       "padding": "0, 0, 0, 0",
       "snapOnInput": true,
-      "startingDirectory": "%USERPROFILE%",
+      "startingDirectory": ".",
       "useAcrylic": false
     },
     {
@@ -189,7 +190,7 @@
       "name": "docker",
       "padding": "0, 0, 0, 0",
       "snapOnInput": true,
-      "startingDirectory": "%USERPROFILE%",
+      "startingDirectory": ".",
       "useAcrylic": false
     },
     {
@@ -208,7 +209,7 @@
       "name": "powershell",
       "padding": "0, 0, 0, 0",
       "snapOnInput": true,
-      "startingDirectory": "%USERPROFILE%",
+      "startingDirectory": ".",
       "useAcrylic": false
     },
     {
@@ -227,7 +228,7 @@
       "name": "azure",
       "padding": "0, 0, 0, 0",
       "snapOnInput": true,
-      "startingDirectory": "%USERPROFILE%",
+      "startingDirectory": ".",
       "useAcrylic": false
     }
   ],
