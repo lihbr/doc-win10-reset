@@ -86,7 +86,10 @@ Just follow install step, disabled everything and don't connect to internet, wif
 > 2. in terminal: `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 > 3. add the key to the ssh agent: `ssh-add key_rsa`
 > 4. add the public key to GitHub settings
-> 5. set *gitconfig* *email* property to *username@users.noreply.github.com*
+> 5. set *gitconfig* *email* property to *username@users.noreply.github.com*:
+```
+git config --global user.email "username@users.noreply.github.com"
+```
 > 6. create an environment variable at *GIT_SSH* with the path of the *OpenSSH* executable: *C:\Windows\System32\OpenSSH\ssh.exe*
 - [Gow](https://github.com/bmatzelle/gow/releases)
  > Fix terminal:
