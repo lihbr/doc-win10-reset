@@ -106,6 +106,11 @@ background: [7, 10, 20]
 > 2. Copy `./terminal` inside `%LOCALAPPDATA%`
 > 3. Execute `wt.reg`
 > 4. Resume your settings
+- [Docker](https://docs.docker.com/toolbox/overview/)
+> 1. Install (not on the SSD if space is a concern)
+> 2. Add folders to default machine:
+>     1. Open virtual box, select go to default configuration, shared folders, then add desired folders
+>     2. Open a docker terminal, get into the machine `docker-machine ssh`, then mount shared folders: `sudo mount -t vboxsf -o uid=1000,gid=50 d /d` (exemple to map `d to /d`)
 - [Insomnia](https://insomnia.rest/)
 - [MongoDB Compass](https://www.mongodb.com/download-center/compass)
 - [Notepad++](https://notepad-plus-plus.org/download/)\*
